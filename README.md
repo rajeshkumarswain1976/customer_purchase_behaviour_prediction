@@ -362,7 +362,7 @@ This column has a constant value of 0.1 for every single row in the dataset (sta
 
 **Clustering features kept at 3.**
 Testing showed that adding more features to KMeans drops the silhouette score from 0.348 → 0.215. `Customer_Lifetime_Value`, `Loyalty_Score`, and `Purchase_Amount` produce the most clearly separated customer segments.
-
+    
 ---
 
 ## Acknowledgements
