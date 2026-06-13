@@ -367,4 +367,5 @@ Testing showed that adding more features to KMeans drops the silhouette score fr
 
 ## Acknowledgements
 
-Dataset used for academic and learning purposes. Analysis conducted as part of a customer behaviour study using Amazon purchase data.
+Dataset used for academic and learning purposes. Analysis conducted as part of a customer behaviour study using Amazon purchase data.The Used Dataset is used from the other source not created by me.
+
